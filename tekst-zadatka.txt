@@ -1,0 +1,26 @@
+Poštovani kandidati,
+
+Šaljemo vam test zadatke.
+
+1. Koristeci Bootstrap 4 i sledeci kod
+    <div class="naslov">
+      <h1>Hello, world!</h1>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          Column
+        </div>
+        <div class="col">
+          Column
+        </div>
+        <div class="col">
+          Column
+        </div>
+      </div>
+    </div>
+    potrebno je podesiti CSS naslova tako da je sa leve strane poravnat sa ostatkom sadrzaja na svim rezolucijama.
+2. Pod pretpostavkom da imamo dva seta od po tri tekstualna input polja (dan, mesec, godina) - "od" i "do", 
+napisati rucno jQuery ili Javascript skriptu koja proverava validnost unetih datuma.
+
+Srdačan pozdrav,
